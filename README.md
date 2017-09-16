@@ -15,8 +15,12 @@ $ hexo server
 
 ## 翻译任务
 
-任务一：将图书中的目录转为 markdown 文件中的标题，[指南](https://github.com/docschina/rxjs-in-action/issues/2)
+* 任务一：将图书中的目录转为 markdown 文件中的标题
+[认领指南](https://github.com/docschina/rxjs-in-action/issues/2)
+
+* 任务二：翻译章节下的小节
+[认领指南](https://github.com/docschina/rxjs-in-action/issues/25)
 
 ## 任务认领
-[点我认领任务](https://github.com/docschina/rxjs-in-action/projects/1)
+[点我认领任务 - 翻译任务汇总](https://github.com/docschina/rxjs-in-action/projects/1)
 
