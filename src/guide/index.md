@@ -24,13 +24,13 @@ Chapter 1 lays out the problem with the state of asynchrony in JavaScript and wh
 
 ## OBSERVABLES IN PRACTICE
 
-Applied reactive streams
-Coordinating business processes
-Error handling with RxJS
+* Applied reactive streams
+* Coordinating business processes
+* Error handling with RxJS
 
 
 ## MASTERING RXJS
 
-Heating up observables
-Toward testable, reactive programs
-RxJS in the wild
+* Heating up observables
+* Toward testable, reactive programs
+* RxJS in the wild
