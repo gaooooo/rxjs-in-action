@@ -1,5 +1,5 @@
 ---
-title: RxJS in Action
+title: Catalog
 type: guide
 order: 0
 ---
