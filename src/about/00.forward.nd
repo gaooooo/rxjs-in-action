@@ -1,0 +1,14 @@
+title: foreword
+type: about
+order: 0
+---
+
+It’s no secret that the web has grown dramatically in popularity as a platform for build- ing large-scale, high-traffic applications. Modern web applications are somewhat unique in the computing world, however, because they require a great deal of asyn- chrony, ranging from AJAX requests to animations to lazy-loaded client resources and multiplexed web sockets. And all this asynchrony comes with a complexity cost.
+
+A simple drag and drop, for example, is actually a coordination of three or more different events: wait for a mouse-down and then listen to all mouse movements until the next mouse-up. Current imperative approaches to implement this sort of thing are not always straightforward; they’re difficult to maintain, and they’re rarely bug free.
+
+RxJS is an ideal tool to help you manage asynchronous complexity in your applica- tions in a declarative, easy-to-maintain, and fun way. So how do you learn Rx?
+
+This book, RxJS in Action, is to date the only resource of its type to cover the latest version, RxJS 5. As the project lead for RxJS, I’m very happy to see this book reach the masses with important information you need to know about this library in order to be an effective reactive programmer.
+
+— Ben Lesh Project lead, RxJS 5
