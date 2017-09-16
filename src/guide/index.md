@@ -1,7 +1,7 @@
 ---
 title: RxJS in Action
 type: guide
-order: 2
+order: 0
 ---
 
 COVERS RXJS 5
